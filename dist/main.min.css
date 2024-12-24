@@ -1,0 +1,16 @@
+/*!*****************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles.css/styles.css ***!
+  \*****************************************************************************/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    padding: 10px;
+}
